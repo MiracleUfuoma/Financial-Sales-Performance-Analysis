@@ -102,5 +102,5 @@ Key insights derived from the analysis:
 * Sales is higher in the USA but Profit is higher in France.
 * More sales were made in October across all countries but little sales in January.
 # Dashboard overview
-Below is a copy of the workbook which conta  ins the uncleaned dataset, cleaned dataset, pivot tables and dashboards:
-(Financials analysis.xlsx)
+Below is a copy of the workbook which contains the uncleaned dataset, cleaned dataset, pivot tables and dashboards:
+[(Financials analysis.xlsx)](https://github.com/MiracleUfuoma/Financial-Sales-Performance-Analysis/blob/main/Financials%20analysis.xlsx)
