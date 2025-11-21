@@ -101,4 +101,5 @@ Key insights derived from the analysis:
 * Some products with low discounts show weakened profit performance.
 * Sales is higher in the USA but Profit is higher in France.
 * More sales were made in October across all countries but little sales in January.
+# Dashboard overview
 ![Dashboard Overview](images/dashboard overview.jpg)
