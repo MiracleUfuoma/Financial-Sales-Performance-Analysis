@@ -102,4 +102,4 @@ Key insights derived from the analysis:
 * Sales is higher in the USA but Profit is higher in France.
 * More sales were made in October across all countries but little sales in January.
 # Dashboard overview
-![Dashboard Overview](images/dashboard overview.jpg)
+![Dashboard Overview](images/dashboard_overview.jpg)
