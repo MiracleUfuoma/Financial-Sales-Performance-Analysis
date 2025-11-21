@@ -1,7 +1,7 @@
 
 # Financial Sales Performance Analysis (Excel Project)
 
-This project showcases an end-to-end Financial Sales Performance Analysis using Advanced Excel techniques, including Pivot Tables, Pivot Charts, Dashboards, Data Cleaning, and Data Visualization. 
+This project showcases an end-to-end Financial Sales Performance Analysis using Advanced Excel techniques, including Pivot Tables, Pivot Charts, Dashboards, Data Cleaning, and Data Visualization. The dataset can be downloaded using this link: https://www.kaggle.com/datasets/atharvaarya25/financials
 
 # 📊 Project Overview
 
@@ -101,4 +101,4 @@ Key insights derived from the analysis:
 * Some products with low discounts show weakened profit performance.
 * Sales is higher in the USA but Profit is higher in France.
 * More sales were made in October across all countries but little sales in January.
-![Dashboard Overview](images/WhatsApp Image 2025-11-21 at 20.20.41_1794947d.jpg)
+![Dashboard Overview](images/dashboard overview.jpg)
