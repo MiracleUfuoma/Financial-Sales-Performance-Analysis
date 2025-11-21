@@ -70,7 +70,7 @@ Gross Margin % = Profit / Sales
 * Units Sold
 Total number of items sold.
 
-*Discount vs Profit Correlation
+* Discount vs Profit Correlation
 Analyzed using a scatter plot to reveal patterns.
 
 # 📈 Dashboard Features
@@ -101,3 +101,5 @@ Key insights derived from the analysis:
 * Some products with low discounts show weakened profit performance.
 * Sales is higher in the USA but Profit is higher in France.
 * More sales were made in October across all countries but little sales in January.
+
+![Dashboard Overview](WhatsApp Image 2025-11-21 at 20.20.41_1794947d.jpg)
